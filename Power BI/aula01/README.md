@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/mqn-amui-bej
+https://meet.google.com/hgo-rkzw-iwi
 
 # Formulario para envio da atividade
 
