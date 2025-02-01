@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/ayk-chgi-tsu
+https://meet.google.com/mqn-amui-bej
 
 # Formulario para envio da atividade
 
