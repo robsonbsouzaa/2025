@@ -1,4 +1,5 @@
-https://meet.google.com/upb-oojg-ogk
+https://meet.google.com/pqr-jpjp-jnw
+
 
 # Aula02 - DashBoard
 ## Visualizações com diversas fontes de dados
