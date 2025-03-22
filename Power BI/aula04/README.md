@@ -1,6 +1,6 @@
 # Aula04 - Relacionamentos
 
-## Link Meet: https://meet.google.com/dfo-eisb-dbe
+## Link Meet: https://meet.google.com/aaf-jekj-hxj
 
 # Relacionamentos no Power BI
 
