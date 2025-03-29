@@ -5,7 +5,7 @@
 
 # Atividade 01
 
-Desenvolver um Dashboard utilizando a planilha BD_logistica, faça uma analise das informações e crie uma dashboard utilizando as informações como na imagem
+Desenvolver um Dashboard utilizando a planilha **BD_logistica**, faça uma analise das informações e crie uma dashboard utilizando as informações como na imagem
 
 ![alt text](image.png)
 
