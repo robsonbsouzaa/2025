@@ -32,7 +32,7 @@ Desenvolver um Dashboard utilizando a planilha **BD_logistica**, faça uma anali
 | Faça os relacionamento de tabelas 
 | O template da dashboard é o arquivo **Background.jpg**
 
-## **Fómulas**
+## **Fórmulas**
 
 
 | **Tabela**   | **Nome**  |**Fórmula**       |
