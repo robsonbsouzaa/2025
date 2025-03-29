@@ -45,6 +45,6 @@ Desenvolver um Dashboard utilizando a planilha **BD_logistica**, faça uma anali
 | Entregas:                                                            |
 | -------------------------------------------------------------------- |
 | Apresente ao professor o arquivo com as análises solicitadas. 
-| Enviar atividades no link: https://forms.gle/aaKfHPCBXHwmsi9Z8 
+| Enviar atividades no link: https://forms.gle/VsM1XpDtd2sLYSX69 
 
 #
