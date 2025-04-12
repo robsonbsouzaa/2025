@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/rhn-wnvu-rgr
+https://meet.google.com/mfo-qgvx-tsp
 
 # Formulario para envio da atividade
 
