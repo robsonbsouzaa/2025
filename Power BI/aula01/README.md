@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/qhv-vpbr-ayc
+https://meet.google.com/vfw-esme-rtd
 
 # Formulario para envio da atividade
 
