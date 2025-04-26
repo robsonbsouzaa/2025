@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/mfo-qgvx-tsp
+https://meet.google.com/qhv-vpbr-ayc
 
 # Formulario para envio da atividade
 
