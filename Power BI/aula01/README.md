@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/hgo-rkzw-iwi
+https://meet.google.com/gxh-jicp-jnv
 
 # Formulario para envio da atividade
 
