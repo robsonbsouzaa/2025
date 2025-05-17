@@ -2,7 +2,7 @@
 ### https://meet.google.com/bcr-zwsc-zob
 ## Dashboard's
 
-![alt text](Logistica\image.png)
+![alt text](Logistica/image.png)
 
 
 # Link do Formulario
