@@ -2,7 +2,7 @@
 ## Objetivo
 O Curso de Aperfeiçoamento Profissional Power BI tem por objetivo o desenvolvimento de competências relativas ao desenvolvimento de diversos tipos de indicadores e construção de painéis gerenciais, utilizando dados de fontes variadas por meio do software DataVisualization Microsoft Power BI.
 
-### Carga Horária Total - 20 horas
+### Carga Horária Total - 32 horas
 
 ## [Apostila](https://github.com/wellifabio/senai2023/blob/main/curso_power_bi/Apostila.pdf)
 
