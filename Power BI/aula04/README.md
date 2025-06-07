@@ -1,6 +1,6 @@
 # Aula04 - Relacionamentos
 
-## Link Meet: https://meet.google.com/eyh-gyrb-gbr
+## Link Meet: https://meet.google.com/amu-edpi-zty
 
 
 # Relacionamentos no Power BI
