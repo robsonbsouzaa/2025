@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/zwg-dfzp-kbf
+https://meet.google.com/tnt-anac-coa
 
 # Formulario para envio da atividade
 
