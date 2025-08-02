@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/zvy-hymj-iui
+https://meet.google.com/web-qoxb-pjh
 
 # Formulario para envio da atividade
 
