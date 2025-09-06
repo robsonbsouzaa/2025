@@ -10,6 +10,6 @@
 # Clique na Imagem para enviar o formulário
 
 <div align = "center">
-<a href = "https://forms.gle/FneSTAb84NmdTx3U7"><img src = "https://c.tenor.com/lvLaG5hPCncAAAAd/tenor.gif"></a>
+<a href = "https://forms.gle/FneSTAb84NmdTx3U7"><img src = "https://c.tenor.com/lvLaG5hPCncAAAAd/tenor.gif" width="70%" height=auto></a>
 
 </div>
