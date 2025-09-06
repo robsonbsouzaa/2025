@@ -12,7 +12,7 @@
 <br>
 <img width="264" height="402" alt="image" src="https://github.com/user-attachments/assets/33fddd4e-b5f7-4ce1-b3a2-3799d2aec333" />
 <br>
-<p>Ao lozalizar clique para entrar e na pagina seguinte vamos clicar em *Obter Agora*</p>
+<p>Ao lozalizar clique para entrar e na pagina seguinte vamos clicar em ** Obter Agora **</p>
 <br>
 <img width="1115" height="281" alt="image" src="https://github.com/user-attachments/assets/97adc2e0-b953-406a-8567-c39b5b6bfc05" />
 <br>
