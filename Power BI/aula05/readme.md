@@ -4,15 +4,15 @@
 <br>
 <img width="1883" height="610" alt="image" src="https://github.com/user-attachments/assets/5c3072ca-e745-44f6-83d9-e31b3cd84deb" />
 <br>
-Neste site vamos pesquisar na barra o visual Image Grid
+<p>Neste site vamos pesquisar na barra o visual Image Grid</p>
 <br>
 <img width="989" height="120" alt="image" src="https://github.com/user-attachments/assets/c65bdbc3-34cd-4e49-ae04-fcf823afe61e" />
 <br>
-Ao pressionar o buscar vamos verificar o seguinte visual
+<p>Ao pressionar o buscar vamos verificar o seguinte visual</p>
 <br>
 <img width="264" height="402" alt="image" src="https://github.com/user-attachments/assets/33fddd4e-b5f7-4ce1-b3a2-3799d2aec333" />
 <br>
-Ao lozalizar clique para entrar e na pagina seguinte vamos clicar em *Obter Agora"
+<p>Ao lozalizar clique para entrar e na pagina seguinte vamos clicar em *Obter Agora*</p>
 <br>
 <img width="1115" height="281" alt="image" src="https://github.com/user-attachments/assets/97adc2e0-b953-406a-8567-c39b5b6bfc05" />
 <br>
