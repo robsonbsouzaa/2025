@@ -1,5 +1,20 @@
 # AULA 05 - Image Grid
 
+<p>Nesta aula vamos aprender a instalar Power BI Visuais utilizando um site da Microsoft</p>
+<img width="1883" height="610" alt="image" src="https://github.com/user-attachments/assets/5c3072ca-e745-44f6-83d9-e31b3cd84deb" />
+
+Neste site vamos pesquisar na barra o visual Image Grid
+
+<img width="989" height="120" alt="image" src="https://github.com/user-attachments/assets/c65bdbc3-34cd-4e49-ae04-fcf823afe61e" />
+
+Ao pressionar o buscar vamos verificar o seguinte visual
+<img width="264" height="402" alt="image" src="https://github.com/user-attachments/assets/33fddd4e-b5f7-4ce1-b3a2-3799d2aec333" />
+
+Ao lozalizar clique para entrar e na pagina seguinte vamos clicar em *Obter Agora"
+<img width="1115" height="281" alt="image" src="https://github.com/user-attachments/assets/97adc2e0-b953-406a-8567-c39b5b6bfc05" />
+
+
+
 ## Meet: https://meet.google.com/zsi-msbd-moi
 
 <a href = "https://app.powerbi.com/view?r=eyJrIjoiOTM4MzY4MGYtNTZhMy00ODAyLWE3MjYtZDQ3NDk3ZTI5YjExIiwidCI6IjQxNDhhNmRlLTBkZDEtNGQwNC1hNGM1LTc4ZTM3NGU0ZjZkNiIsImMiOjR9">Dashboard 1 </a>
