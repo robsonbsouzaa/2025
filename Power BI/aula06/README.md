@@ -1,5 +1,7 @@
 # Aula 06
 
+## Meet: https://meet.google.com/qki-zmjm-hnh
+
 ## Finalização
 
 ## Projeto Carro
