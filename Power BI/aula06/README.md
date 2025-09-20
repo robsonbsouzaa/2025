@@ -1,7 +1,16 @@
 # Aula 06
 
-### Finalização
+## Finalização
 
+## Projeto Carro
+
+Vamos desenvolver utilizando a pasta **Projeto Carro** o seguinte dashboard 
+<div align = "center">
+  
+<img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/b6a2ec77-e96c-4614-8f63-0a02e0cf741b" />
+<img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/02da776c-3f9a-4172-8a77-5cd73a0bfac4" />
+
+</div>
 ## Atividade
 
 | Contextualização                                                                                                                                                              |
