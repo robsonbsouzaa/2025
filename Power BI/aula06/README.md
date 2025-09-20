@@ -11,7 +11,8 @@ Vamos desenvolver utilizando a pasta **Projeto Carro** o seguinte dashboard
 <img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/02da776c-3f9a-4172-8a77-5cd73a0bfac4" />
 
 </div>
-## Atividade
+
+# Atividade
 
 | Contextualização                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
