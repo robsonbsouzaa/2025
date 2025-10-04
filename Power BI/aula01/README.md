@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/snb-buep-nbd
+## https://meet.google.com/gnc-zmjt-wuf
 
 # Formulario para envio da atividade
 
