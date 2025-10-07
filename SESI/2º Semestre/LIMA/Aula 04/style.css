@@ -1,0 +1,66 @@
+body{
+   background: url(fundo.jpg) no-repeat; /*Imagem de fundo sem repetir */
+   background-size: cover; /*Espaço ocupado na tela */
+   margin:0;
+   padding:0;
+   color:red;
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align:center;
+}
+
+header h1{
+    margin:0;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul a{
+    color:white;
+    text-decoration: none;
+}
+
+nav ul li {
+    display:inline;
+    margin:0 10px;
+}
+
+.banner{
+    background: url(banner.gif) no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    text-align: center;
+    color: greenyellow; 
+}
+.banner h2{
+    font-size: 35px;
+}
+section{
+    padding:20px;
+    margin: 0 10px;
+}
+.cartao{
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding:15px;
+    margin-bottom: 20px;
+    display:inline-block;
+    width: 200px;
+    vertical-align: top;
+    background-color: rgba(255,255,255,0.8);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0,3s ease,box-shadow 0,3s ease;
+}
+.cartao:hover{
+    transform: translateY(-10px);
+    box-shadow:0 8px 16px rgba(0,0,0,0.3);
+}
+.cartao img{
+    width:100%;
+    border-radius: 8px;
+}

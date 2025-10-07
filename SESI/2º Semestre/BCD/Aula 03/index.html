@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade SQL - Checklist</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 40px; /* Espaço entre os logos */
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .header img {
+            max-height: 50px; /* Ajuste a altura dos logos conforme necessário */
+            width: auto;
+        }
+        .header #sesi {
+            max-height: 80px; /* Ajuste a altura dos logos conforme necessário */
+            width: auto;
+        }
+        h1, h2 {
+            color: #0056b3;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+        h1 {
+           text-align: center; 
+           border-bottom: none;
+           margin-top: 0;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 10px;
+        }
+        li {
+            margin-bottom: 12px;
+            background-color: #fff;
+            padding: 10px 15px;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+        }
+        input[type="checkbox"] {
+            margin-right: 15px;
+            min-width: 18px;
+            min-height: 18px;
+            cursor: pointer;
+        }
+        label {
+            cursor: pointer;
+            flex-grow: 1;
+        }
+        .nested-list {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 10px;
+            font-style: italic;
+            color: #555;
+            background-color: transparent;
+            box-shadow: none;
+        }
+        .nested-list li {
+            padding: 2px;
+            box-shadow: none;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <img id="sesi" src="https://logodownload.org/wp-content/uploads/2016/10/sesi-logo-8.png" alt="Logo SESI">
+        <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo-1.png" alt="Logo SENAI">
+    </header>
+
+    <h1>Atividade SQL</h1>
+
+    <form id="checklist-form">
+        <h2>1. Criação do banco de dados:</h2>
+        <ul>
+            <li>
+                <input type="checkbox" id="task1">
+                <label for="task1">Criar um banco de dados chamado ‘biblioteca’.</label>
+            </li>
+            <li>
+                <input type="checkbox" id="task2">
+                <label for="task2">Selecionar o banco para uso.</label>
+            </li>
+        </ul>
+
+        <h2>2. Criação de tabelas:</h2>
+        <ul>
+            <li>
+                <input type="checkbox" id="task3">
+                <label for="task3">Criar a tabela ‘usuarios’ com os campos:</label>
+                <ul class="nested-list">
+                    <li>id (Chave primária e incremental)</li>
+                    <li>nome (100 caracteres e obrigatório)</li>
+                    <li>email (100 caracteres)</li>
+                    <li>nascimento</li>
+                </ul>
+            </li>
+            <li>
+                <input type="checkbox" id="task4">
+                <label for="task4">Criar a tabela ‘livros’ com os campos:</label>
+                <ul class="nested-list">
+                    <li>id (Chave primária e incremental)</li>
+                    <li>titulo (100 caracteres e obrigatório)</li>
+                    <li>autor (100 caracteres e obrigatório)</li>
+                    <li>publicacao (4 digitos)</li>
+                </ul>
+            </li>
+            <li>
+                <input type="checkbox" id="task5">
+                <label for="task5">Criar a tabela ‘emprestimos’ com os campos:</label>
+                <ul class="nested-list">
+                    <li>id (Chave primária e incremental)</li>
+                    <li>usuario_id (Chave estrangeira)</li>
+                    <li>livro_id (Chave estrangeira)</li>
+                    <li>data_emprestimo</li>
+                    <li>data_devolucao</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2>3. Inserção de dados:</h2>
+        <ul>
+            <li><input type="checkbox" id="task6"><label for="task6">Inserir 3 registros na tabela ‘usuarios’.</label></li>
+            <li><input type="checkbox" id="task7"><label for="task7">Consultar todos os registros.</label></li>
+            <li><input type="checkbox" id="task8"><label for="task8">Consultar apenas o usuário com id 2.</label></li>
+            <li><input type="checkbox" id="task9"><label for="task9">Inserir 3 registros na tabela ‘livros’.</label></li>
+            <li><input type="checkbox" id="task10"><label for="task10">Consultar todos os registros.</label></li>
+            <li><input type="checkbox" id="task11"><label for="task11">Consultar titulo e ano de publicação do livro com id 3.</label></li>
+            <li><input type="checkbox" id="task12"><label for="task12">Inserir 2 registros na tabela ‘emprestimos’.</label></li>
+            <li><input type="checkbox" id="task13"><label for="task13">Consultar todos os registros.</label></li>
+            <li><input type="checkbox" id="task14"><label for="task14">Consultar apenas os ID dos usuários e as datas de empréstimo.</label></li>
+        </ul>
+
+        <h2>4. Atualização dos dados:</h2>
+        <ul>
+            <li><input type="checkbox" id="task15"><label for="task15">Adicionar data de devolução.</label></li>
+            <li><input type="checkbox" id="task16"><label for="task16">Consultar o registro alterado.</label></li>
+        </ul>
+
+        <h2>5. Remoção de dados:</h2>
+        <ul>
+            <li><input type="checkbox" id="task17"><label for="task17">Remover um registro qualquer da tabela.</label></li>
+            <li><input type="checkbox" id="task18"><label for="task18">Consultar todos os registros.</label></li>
+            <li><input type="checkbox" id="task19"><label for="task19">Consultar o id removido para validar a remoção.</label></li>
+        </ul>
+    </form>
+
+</body>
+</html>

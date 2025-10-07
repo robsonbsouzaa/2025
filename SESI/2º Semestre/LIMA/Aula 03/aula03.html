@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 03</title>
+</head>
+<body>
+    <center><h1>Lanchonete do Seu Zé</h1>
+    <hr>
+    <br>
+    <h3>Monte seu lanche</h3>
+    </center>
+    <form action="" method="">
+        <p>
+        <label for="nome">Nome Completo</label>
+        <input type="text" id="nome" placeholder="Insira seu nome" required /> 
+        </p>
+        <p>
+            <label for="datanasc">Data de Nascimento</label>
+            <input id="datanasc" type="date" />
+        </p>
+        <p>
+            <label for="indica">Você nos indicaria ?</label>
+            <input id="indica" type="number" min="1" max="5" />
+        </p>
+        <p>
+            <label for="email">E-mail</label>
+            <input id="email" type="email" placeholder="Insira seu email" required />
+        </p>
+        <p>
+            <label for="cor">Cor favorita</label>
+            <input id="cor" type="color" />
+        </p>
+        <p>
+            <label for="volume">Em qual volume você ouve música(0 a 100)</label>
+            <input id="volume" type="range" min="0" max="100" value="50" oninput="valorVolume.textContent = this.value" />
+            <span id="valorVolume">50</span>
+
+            <style>
+                #volume {
+
+                    accent-color: rgb(16, 230, 194);
+                }
+            </style>
+        </p>
+        <fieldset>
+            <legend>Gênero</legend>
+            <input type="radio" id="masc" name="genero" />
+            <label for="masc">Masculino</label>
+            <input type="radio" id="fem" name="genero" />
+            <label for="fem">Feminino</label>
+            <input type="radio" id="outros" name="genero" />
+            <label for="outros">Outros</label>
+
+            <style>
+                #masc{
+                    accent-color: red;
+                }
+                #fem{
+                    accent-color: purple;
+                }
+                #outros{
+                    accent-color: green;
+                }
+            </style>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Monte seu lanche</legend>
+            <input type="checkbox" id="salada" />
+            <label for="salada">Salada</label>
+            <input type="checkbox" id="hamb" />
+            <label for="hamb">Hamburger</label>
+            <input type="checkbox" id="tom" />
+            <label for="tom">Tomate</label>
+            <input type="checkbox" id="queijo" />
+            <label for="queijo">Queijo</label>
+            <input type="checkbox" id="bacon" />
+            <label for="bacon">Bacon</label>
+            <input type="checkbox" id="maionese" />
+            <label for="maionese">Maionese</label>
+
+            <style>
+                #salada{
+                    accent-color: green;
+                }
+                #hamb{
+                    accent-color: brown;
+                }
+                #tom{
+                    accent-color: red;
+                }
+                #queijo{
+                    accent-color: yellow;
+                }
+                #bacon{
+                    accent-color: gold;
+                }
+                #maionese{
+                    accent-color: rgb(231, 231, 167);
+                }
+            </style>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Bebidas</legend>
+            <input id="refri" type="radio" name="bebidas" />
+            <img src = "refri.jpg" width="200" height="150">
+             <input id="suco" type="radio" name="bebidas" />
+            <img src = "https://img.freepik.com/psd-gratuitas/sucos-de-frutas-refrescantes-uma-deliciosa-mistura-de-citricos-uma-escolha-de-estilo-de-vida-saudavel_191095-905.jpg" alt="teste" width="200" height="150">
+             <input id="shake" type="radio" name="bebidas" />
+            <img src = "https://img.cdndsgni.com/preview/11615210.jpg" width="200" height="150">
+        </fieldset>
+        <p>
+        <label for="info">Informações Adicionais</label>
+        <textarea id="info"></textarea>
+        </p>
+        <p>
+            <label for="cidade">Informe a cidade</label>
+            <select id="cidade">
+                <option>Jaguariúna</option>
+                <option>Amparo</option>
+                <option>Pirassununga</option>
+                <option>Pedreira</option>
+                <option>Monte Alegre do Sul</option>
+                <option>Mostarda</option>
+                <option>Itapira</option>
+            </select>
+        </p>
+        <p>
+            <input type="reset" value="Limpar Form" />
+            <button onclick="enviar()">Enviar</button>
+        <script>
+            function enviar(){
+                alert("Dados enviados com sucesso")
+            }
+            </script>
+        </p>
+        
+    </form>
+    
+</body>
+</html>

@@ -1,0 +1,13 @@
+[
+    {
+        "nome": "Fulano",
+        "documento": "12345678",
+        "endereco": "Rua da Saudade",
+        "idade": 50,
+        "habilitado": true,
+        "telefones": ["019123456", "11123433", "154596879"]
+    },
+    {
+        "nome":""
+    }
+]

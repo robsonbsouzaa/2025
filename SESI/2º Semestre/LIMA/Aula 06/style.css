@@ -1,0 +1,128 @@
+body{
+    font-family: "Segoe UI", sans-serif;
+    margin: 0;
+    background-color: #81a2d4;
+    color: #333;
+}
+header{
+    background: #2c3e50;
+    color: #fff;
+    padding: 20px;
+    text-align:center;
+}
+header h1{
+    margin:0;
+    font-size: 28px;
+}
+nav ul{
+    list-style: none;
+    padding:0;
+    margin:10px 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold; /*Negrito*/
+}
+nav a:hover{
+    text-decoration: underline;
+    color: #7230df;
+}
+main{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.tabela-container{
+    width: 90%;
+    max-width: 1000px;
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 20px;
+    transition: transform 0.3s ease;
+
+}
+
+.tabela-container h2{
+    margin-bottom: 20px;
+    text-align: center;
+    color: #2c3e50;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+ thead{
+    background: #34495e;
+    color: #fff;
+ }
+
+ thead th{
+    padding:10px;
+    text-align: left;
+    font-size: 16px;
+ }
+ td img{
+    width: 60px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1); 
+ }
+
+ tbody tr:nth-child(1){background-color: #fef9e7;}
+ tbody tr:nth-child(2){background-color: #e8f8f5;}
+ tbody tr:nth-child(3){background-color: #f5eef8;}
+ tbody tr:nth-child(4){background-color: #fdebd0;}
+ tbody tr:nth-child(5){background-color: #eaf2f8;}
+
+ tbody td {
+    padding: 12px 14px;
+    font-size: 15px;
+ }
+
+ tbody td a{
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ tbody td a:hover{
+    color: #2980b9;
+    text-decoration: underline;
+ }
+ tbody tr {
+    transition:background 0.3s, transform 0.2s;
+ }
+tbody tr:hover{
+    transform: scale(1.01);
+    filter:brightness(0.95);
+}
+
+.preco{
+    color:#27ae60;
+    font-weight: bold;
+}
+
+.estoque{
+    font-weight: bold;
+}
+.estoque.baixo{
+    color:#e74c3c
+}
+.estoque.alto{
+    color:#27ae60
+}
+
+footer{
+    background: #2c3e50;
+    color:#fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    margin-top: 20px;
+}
