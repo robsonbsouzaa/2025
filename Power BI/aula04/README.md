@@ -3,8 +3,9 @@
 ## Link Meet: https://meet.google.com/gyu-nudy-dab
 
 ## Dashboard SAC
+
 <div class = "center>
-<img src = "https://github.com/user-attachments/assets/de1991c7-58fe-4bc8-a647-b387e929dfe6" width ="200px" height="auto"><a href="https://forms.gle/3AbJiKRv8ozxcHnUA">
+<img src = "https://github.com/user-attachments/assets/de1991c7-58fe-4bc8-a647-b387e929dfe6" width ="200px" height="auto">
 </div>
 
 
