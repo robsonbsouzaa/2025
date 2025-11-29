@@ -1,6 +1,6 @@
 # Aula 06
 
-## Meet: https://meet.google.com/bsf-pswc-ifp
+## Meet: https://meet.google.com/idm-prtj-ugb
 ## Finalização
 
 ## Projeto Carro
