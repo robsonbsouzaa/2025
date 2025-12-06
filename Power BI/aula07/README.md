@@ -42,7 +42,7 @@
 Contextualização                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Realizar a Dashboard de uma loja chamada ChocoFino, para controle de vendas nas localidades da loja
-<img width="606" alt="image" src="Power BI/aula07/Captura de tela 2025-12-06 084123.png">
+<img width="606" alt="image" src="Captura de tela 2025-12-06 084123.png">
 
 
 | Desafio                                                                                                                      |
@@ -55,3 +55,4 @@ Contextualização                                                              
 ## Envio
 
 Form: 
+
