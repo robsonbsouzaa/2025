@@ -38,7 +38,7 @@
 
 Contextualização                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Uma empresa chamada FarmTech, que é voltada para desenvolvimento de tecnologias para uso farmaceutico, deseja reecriar sua dashboard de controle de funcionarios, utilizando novos graficos para aplicação das diretrizes ja existentes, e você foi contratado para realizar esta operação
+| Uma empresa chamada FarmTech, que é voltada para desenvolvimento de tecnologias para uso farmacêutico, deseja recriar sua dashboard de controle de funcionários, utilizando novos gráficos para aplicação das diretrizes já existentes, e você foi contratado para realizar esta operação
 |Logo da Empresa: <img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/c68cf916-c29c-4f61-8d3d-21e910a77f25" />
 
 
@@ -57,6 +57,7 @@ Contextualização                                                              
 ## Envio
 
 Form: 
+
 
 
 
