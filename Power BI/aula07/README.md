@@ -38,7 +38,11 @@
 
 Contextualização                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Reecriar a Dashboard de uma loja chamada ChocoFino, para controle de vendas nas localidades da loja
+| Uma empresa chamada FarmTech, que é voltada para desenvolvimento de tecnologias para uso farmaceutico, deseja reecriar sua dashboard de controle de funcionarios, utilizando novos graficos para aplicação das diretrizes ja existentes, e você foi contratado para realizar esta operação
+|Logo da Empresa: <img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/c68cf916-c29c-4f61-8d3d-21e910a77f25" />
+
+
+
 <img width="606" alt="image" src="Captura de tela 2025-12-06 084123.png">
 
 
@@ -53,5 +57,6 @@ Contextualização                                                              
 ## Envio
 
 Form: 
+
 
 
