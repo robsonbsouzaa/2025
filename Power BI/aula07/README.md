@@ -30,10 +30,7 @@
 | Vendas   | Qtd Vendida |SUM(Vendas[Quantidade])
 
 
-| Entregas:                                                            |
-| -------------------------------------------------------------------- |
-| Apresente ao professor o arquivo com as análises solicitadas. 
-| Enviar atividades no link: https://forms.gle/VsM1XpDtd2sLYSX69 
+
 
 #
 
@@ -41,7 +38,7 @@
 
 Contextualização                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Realizar a Dashboard de uma loja chamada ChocoFino, para controle de vendas nas localidades da loja
+| Reecriar a Dashboard de uma loja chamada ChocoFino, para controle de vendas nas localidades da loja
 <img width="606" alt="image" src="Captura de tela 2025-12-06 084123.png">
 
 
@@ -50,9 +47,11 @@ Contextualização                                                              
 | Importe os dados do arquivo **RH Base de dados_v1**                                                            
 | Transforme os dados com Power Query                                                                                          
 | Faça os relacionamento de tabelas 
-| O template da dashboard é o arquivo **Template.jpg**
+| O template da dashboard deve ser realizado por você recriando o existente e mudando as exibições gráficas
+
 
 ## Envio
 
 Form: 
+
 
